@@ -1,5 +1,5 @@
 
-# Global-and-Local-Alignment-Application
+# Global and Local Alignment Application
 
 A comprehensive Python application for performing global and local sequence alignments using dynamic programming algorithms. The application features a user-friendly graphical interface built with Tkinter.
 
