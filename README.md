@@ -56,7 +56,7 @@ This application solves these problems by providing:
 - More negative gap penalties discourage insertions/deletions
 ## Contributing
 
-Contributions are always welcome! Contributions are welcome! Please feel free to submit pull requests.
+Contributions are always welcome! Please feel free to submit pull requests.
 
 ## License
 
